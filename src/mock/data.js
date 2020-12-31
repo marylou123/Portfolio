@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Syllable.jpg',
-    title: 'Syllable',
+    title: 'Syllabus',
     info: 'To provide a nurturing environment where academic freedom is guaranteed and respected for the optimum development of human potential ',
     info2: '',
     url: '/modules/Syllable/Syllable.pdf',
