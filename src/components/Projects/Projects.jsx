@@ -26,7 +26,7 @@ const Projects = () => {
     <section id="projects">
       <Container>
         <div className="project-wrapper">
-          <Title title="Projects" />
+          <Title title="HCI Modules" />
           {projects.map((project) => {
             const { title, info, info2, url, repo, img, id } = project;
 
@@ -65,7 +65,7 @@ const Projects = () => {
                           className="cta-btn text-color-main"
                           href={repo}
                         >
-                          Source Code
+                          Output
                         </a>
                       )}
                     </div>
