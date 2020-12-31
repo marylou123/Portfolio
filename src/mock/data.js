@@ -152,11 +152,11 @@ export const footerData = {
     //   name: 'twitter',
     //   url: '',
     // },
-    {
-      id: nanoid(),
-      name: 'github',
-      url: 'https://github.com/marylou123/Portfolio',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'github',
+    //   url: 'https://github.com/marylou123/Portfolio',
+    // },
   ],
 };
 
