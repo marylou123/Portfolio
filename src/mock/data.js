@@ -155,7 +155,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/marylou123/Portfolio',
     },
   ],
 };
